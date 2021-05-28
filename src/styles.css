@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    font-family:'Courier New', Courier, monospace;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: rgba(255,220,60,255)
+
+}

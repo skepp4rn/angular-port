@@ -1,0 +1,53 @@
+
+
+.startsidacontent {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 30%;
+    left: 26%;
+    transform: translate(-50%, -50%);
+    margin-top: 4rem;
+    font-weight: 1000;
+
+}
+
+.startsidacontent .Liam {
+    color: rgb(0, 0, 0);
+    font-weight: 1000;
+}
+
+.startsidacontent .text-2 {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    
+
+}
+
+/* .btn {
+    border-radius: 0.7rem;
+    margin-top: 1.5rem;
+    background-color: rgba(255,220,60,255);
+    color: rgb(255, 255, 255);
+    padding: 0.5rem 1.5rem;
+    font-weight:1000
+
+} */
+
+.startsidacontent p {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 1.5rem;
+}
+
+.html {
+    color: rgb(179, 7, 7);
+}
+
+.css {
+    color: rgb(50, 114, 173);
+}
+
+.js {
+    color: rgb(163, 163, 5);
+}
+
